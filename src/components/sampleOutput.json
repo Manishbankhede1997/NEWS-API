@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 99,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Why is it so rare to hear about Western cyber-attacks?",
+    "description": "Could a cyber-attack on a Russian technology company provide a rare insight into a Western hack?",
+    "url": "https://www.bbc.co.uk/news/technology-65977742",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5BD4/production/_130180532_ac3696bb-e64b-476f-bceb-40307358969f.jpg",
+    "publishedAt": "2023-06-23T01:30:11Z",
+    "content": "A cyber-attack that took over iPhones at a Russian technology company is being blamed on US government hackers. Could the attack, and the response from the Russian government, be rewriting the narrat… [+9313 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "iOS 17 and macOS Sonoma to let users edit Cinematic videos with third-party apps",
+    "description": "With iPhone 13, Apple introduced a new feature called “Cinematic mode,” which applies the same idea as Portrait Mode to videos, resulting in a blurred background similar to the effect achieved by professional cameras. Until now, the only way to edit Cinematic…",
+    "url": "https://9to5mac.com/2023/06/22/ios-17-cinematic-videos-iphone-apps/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Cinematic-mode-videos-iPhone-iOS-16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-06-23T00:43:38Z",
+    "content": "With iPhone 13, Apple introduced a new feature called “Cinematic mode,” which applies the same idea as Portrait Mode to videos, resulting in a blurred background similar to the effect achieved by pro… [+2066 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thedailyupside.com"
+    },
+    "author": "newsfeedback@fool.com (The Daily Upside)",
+    "title": "The US Wants India in its Corner",
+    "description": "The Biden administration has commenced “Operation Schmooze India” as it looks to become best buds with the South Asian rising economic dynamo. The objective is twofold: counteract America’s economic dependence on China and influence India to buy fewer weapons…",
+    "url": "https://www.thedailyupside.com/the-us-wants-india-in-its-corner/",
+    "urlToImage": "https://www.thedailyupside.com/wp-content/uploads/2023/06/naveed-ahmed-9Dt4WutvwDs-unsplash-1.jpg",
+    "publishedAt": "2023-06-23T00:00:13Z",
+    "content": "The Biden administration has commenced Operation Schmooze India as it looks to become best buds with the South Asian rising economic dynamo.\r\nThe objective is twofold: counteract Americas economic de… [+2789 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Greg Evans",
+    "title": "‘Once Upon A One More Time’ Broadway Review: Britney Spears Goes Into The Woods With Betty Friedan In Wickedly Charming Musical",
+    "description": "Bad Cinderella could have been the poison apple that killed off revisionist fairy tales once and for all, but Britney Spears and Once Upon A One More Time, the new Broadway musical opening tonight that brims with her hits and high spirits, has come along to d…",
+    "url": "https://deadline.com/2023/06/britney-spears-broadway-review-once-upon-a-one-more-time-deadline-1235421229/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/OMT_10_0262_Aisha-Jackson-Morgan-Whitley-Briga-Heelan-Ashley-Chiu-Gabrielle-Beckford-and-Lauren-Zakrin-c-Matthew-Murphy-e1687299010396.jpg?w=1024",
+    "publishedAt": "2023-06-23T01:00:00Z",
+    "content": "Bad Cinderella could have been the poison apple that killed off revisionist fairy tales once and for all, but Britney Spears and Once Upon A One More Time, the new Broadway musical opening tonight th… [+7577 chars]"
+    }
+
+    ]
+    }
